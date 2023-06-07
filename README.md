@@ -4,7 +4,7 @@ This focuses on generating the certificates for loading local virtual hosts host
 
 
 **Do not use self-signed certificates in production !**
-For online certificates, use Let's Encrypt instead ([tutorial](https://gist.github.com/cecilemuller/a26737699a7e70a7093d4dc115915de8)).
+For online certificates, use Let's Encrypt instead ([tutorial]([https://gist.github.com/cecilemuller/a26737699a7e70a7093d4dc115915de8](https://github.com/syslabtec/ssl/blob/master/let's%20encrypt.md))).
 
 
 
